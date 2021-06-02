@@ -1,0 +1,19 @@
+HTML Structure Layout
+
+Editor can be used any type as per our reuirement 
+
+HTML Documents
+
+All HTML Documents start with with document declaration: <!DOCTYPE html>
+Title display the web page about of or heading
+Body is the visible part of html
+
+<!DOCTYPE html>
+<html>
+<body>
+.......
+........
+.......
+
+</body>
+</html>
